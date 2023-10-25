@@ -1,0 +1,57 @@
+.d1{
+    --kt-toolbar-height:55px;
+    --kt-toolbar-height-tablet-and-mobile:55px;
+}
+
+.d2{
+    
+    background-image:url('assets/media/misc/pattern-1.jpg');
+}
+
+.d3{
+    background-image:url('assets/media/misc/pattern-1.jpg');
+}
+
+.d4{
+    height: 200px;
+}
+.d5{
+    height: 150px;
+}
+
+.d6{
+    height: 175px;
+}
+
+.d7{
+    width: 50%;
+}
+.d8{
+    width: 70%;
+}
+.d9{
+    width: 60%;
+}
+
+.d10{
+    width: 50%;
+}
+.d11{
+    width: 90%;
+}
+.d12{
+    height: 150px;
+}
+.d13{
+    left: 0px!important;
+}
+.d14{
+    padding-left: 0!important;
+}
+.d15{
+    margin-top: 29em!important;
+}
+#logo{
+
+    width:50px;
+}
